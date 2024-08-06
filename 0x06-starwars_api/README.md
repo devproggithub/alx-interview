@@ -1,14 +1,26 @@
 # Star Wars API
 
-This project contains interview coding challenges.
+## Concepts Needed:
+1 -HTTP Requests in JavaScript:
 
-```bash
-touch 0-starwars_characters.js
-chmod +x 0-starwars_characters.js
+Understanding how to make HTTP requests to external services using the request module or alternatives like fetch in Node.js.
+A Complete Guide to Making HTTP Requests in Node.js
+2 -Working with APIs:
 
-# Lint.
-pycodestyle 0-starwars_characters.js
+Understanding the basics of RESTful APIs and how to interact with them.
+Parsing JSON data returned by APIs.
+Working with APIs in JavaScript
+3 -Asynchronous Programming:
 
-# tests.
-./0-generator.py | ./0-stats.py 
-``
+Managing asynchronous operations with callbacks, promises, and async/await syntax.
+Handling API response data asynchronously.
+Asynchronous Programming in JavaScript
+3 -Command Line Arguments in Node.js:
+
+Using the process.argv array to access command-line arguments passed to a Node.js script.
+How to Parse Command Line Arguments in Node.js
+4 -Array Manipulation and Iteration:
+
+Iterating over arrays and manipulating data structures to format and display character names.
+JavaScript Array Methods
+
