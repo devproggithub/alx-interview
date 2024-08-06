@@ -2,7 +2,7 @@
 ## Topics Covered.
 1. Python List, List Comprehession.
 
-## :wrench: Project setup
+## :wrench: Project setp
 ```bash
 # Create project directory.
 mkdir ./alx-interview
