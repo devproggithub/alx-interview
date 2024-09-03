@@ -78,3 +78,23 @@ touch 0-main.py
 chmod +x 0-main.py
 ./0-main.py
 ```
+## Resources:
+- Prime Numbers and Sieve of Eratosthenes:
+
+- [Khan Academy: Prime Numbers](https://www.khanacademy.org/math/cc-fourth-grade-math/imp-factors-multiples-and-patterns/imp-prime-and-composite-numbers/v/prime-numbers): Introduction to prime numbers.
+- [Sieve of Eratosthenes in Python](https://www.geeksforgeeks.org/sieve-of-eratosthenes/): A step-by-step guide to implementing the sieve algorithm in Python.
+- 
+ - Game Theory Basics:
+
+- [Game Theory Introduction](https://www.investopedia.com/terms/g/gametheory.asp): A simple explanation of game theory and strategic decision-making.
+  
+- Dynamic Programming:
+
+- [What Is Dynamic Programming With Python Examples](https://skerritt.blog/dynamic-programming/): An introduction to dynamic programming with Python examples.
+  
+- Python Official Documentation:
+
+- [Python Lists](https://docs.python.org/3/tutorial/introduction.html#lists): Managing lists in Python, useful for tracking the game state.
+
+## Additional Resources
+- [Mock Technical Interview](https://www.youtube.com/watch?v=Jw2pniZCLi8)
